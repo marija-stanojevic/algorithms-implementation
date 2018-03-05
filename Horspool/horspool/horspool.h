@@ -1,0 +1,1 @@
+extern "C"_declspec(dllexport) const char* horspool(char*vhod1, char*vhod2, char*vhod3);

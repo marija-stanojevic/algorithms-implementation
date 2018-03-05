@@ -1,0 +1,18 @@
+C:\Users\Korisnik\Desktop\horspool\Grafika\bin\Debug\Grafika.exe
+C:\Users\Korisnik\Desktop\horspool\Grafika\bin\Debug\Grafika.pdb
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\Grafika.Form1.resources
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\Grafika.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\Grafika.exe
+C:\Users\Korisnik\Desktop\horspool\Grafika\obj\x86\Debug\Grafika.pdb
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\bin\Debug\Grafika.exe
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\bin\Debug\Grafika.pdb
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\Grafika.Form1.resources
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\Grafika.Properties.Resources.resources
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\Grafika.exe
+D:\FERI+ERASMUS\ERASMUS 2. semester\ARA\horspool\Grafika\obj\x86\Debug\Grafika.pdb
