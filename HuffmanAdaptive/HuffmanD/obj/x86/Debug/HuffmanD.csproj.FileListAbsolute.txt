@@ -1,0 +1,18 @@
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\bin\Debug\HuffmanD.exe
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\bin\Debug\HuffmanD.pdb
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.Form1.resources
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.exe
+C:\Users\Korisnik\Desktop\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.pdb
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\bin\Debug\HuffmanD.exe
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\bin\Debug\HuffmanD.pdb
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.Form1.resources
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.exe
+D:\FERI\ERASMUS 2. semester\ARA\HuffmanAdaptive\HuffmanD\obj\x86\Debug\HuffmanD.pdb
