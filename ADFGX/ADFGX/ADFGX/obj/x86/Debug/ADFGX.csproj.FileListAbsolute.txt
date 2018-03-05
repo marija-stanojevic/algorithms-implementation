@@ -1,0 +1,9 @@
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\bin\Debug\ADFGX.exe
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\bin\Debug\ADFGX.pdb
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\ADFGX.Form1.resources
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\ADFGX.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\ADFGX.exe
+C:\Users\Korisnik\Desktop\ADFGX\ADFGX\obj\x86\Debug\ADFGX.pdb
