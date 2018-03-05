@@ -1,0 +1,1 @@
+extern "C"_declspec(dllexport) const char* kmpmain(char*vhod1, char*vhod2);

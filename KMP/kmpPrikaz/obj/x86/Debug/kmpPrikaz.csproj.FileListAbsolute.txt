@@ -1,0 +1,18 @@
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\bin\Debug\kmpPrikaz.exe
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\bin\Debug\kmpPrikaz.pdb
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\kmpPrikaz.Form1.resources
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\kmpPrikaz.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\kmpPrikaz.exe
+C:\Users\Korisnik\Desktop\kmp\kmpPrikaz\obj\x86\Debug\kmpPrikaz.pdb
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\bin\Debug\kmpPrikaz.exe
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\bin\Debug\kmpPrikaz.pdb
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\kmpPrikaz.Form1.resources
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\kmpPrikaz.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\kmpPrikaz.exe
+D:\FERI\ERASMUS 2. semester\ARA\KMP\kmpPrikaz\obj\x86\Debug\kmpPrikaz.pdb
