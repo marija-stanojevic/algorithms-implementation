@@ -1,0 +1,18 @@
+C:\Users\Korisnik\Desktop\RadixS\RadixS\bin\Debug\RadixS.exe
+C:\Users\Korisnik\Desktop\RadixS\RadixS\bin\Debug\RadixS.pdb
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\RadixS.Form1.resources
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\RadixS.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\RadixS.exe
+C:\Users\Korisnik\Desktop\RadixS\RadixS\obj\x86\Debug\RadixS.pdb
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\RadixS.exe
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\RadixS.pdb
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\RadixS.Form1.resources
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\RadixS.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\bin\Debug\RadixS.exe
+D:\FERI\ERASMUS 2. semester\ARA\RadixSort\RadixS\RadixS\bin\Debug\RadixS.pdb

@@ -1,0 +1,1 @@
+extern "C"_declspec(dllexport) const char* radix(char* vhod);
