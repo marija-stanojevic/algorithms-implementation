@@ -1,0 +1,18 @@
+C:\Users\Korisnik\Desktop\SLC\SLC\bin\Debug\SLC.exe
+C:\Users\Korisnik\Desktop\SLC\SLC\bin\Debug\SLC.pdb
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\SLC.Form1.resources
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\SLC.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\SLC.exe
+C:\Users\Korisnik\Desktop\SLC\SLC\obj\x86\Debug\SLC.pdb
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\SLC.exe
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\SLC.pdb
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\bin\Debug\SLC.exe
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\bin\Debug\SLC.pdb
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\SLC.Form1.resources
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\SLC.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\SLC\SLC\obj\x86\Debug\GenerateResource.write.1.tlog
