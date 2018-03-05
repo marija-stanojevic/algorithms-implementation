@@ -1,0 +1,18 @@
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\LZWD.Form1.resources
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\LZWD.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\LZW\LZWD\bin\Debug\LZWD.exe
+C:\Users\Korisnik\Desktop\LZW\LZWD\bin\Debug\LZWD.pdb
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\LZWD.exe
+C:\Users\Korisnik\Desktop\LZW\LZWD\obj\x86\Debug\LZWD.pdb
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\bin\Debug\LZWD.exe
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\bin\Debug\LZWD.pdb
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\LZWD.Form1.resources
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\LZWD.Properties.Resources.resources
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\LZWD.exe
+D:\FERI\ERASMUS 2. semester\ARA\LZW\LZWD\obj\x86\Debug\LZWD.pdb

@@ -1,0 +1,48 @@
+﻿Build started 7/12/2013 12:20:51 PM.
+     1>Project "D:\FERI\ERASMUS 2. semester\ARA\LZW\LZW\LZW.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LZW.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LZW.cpp
+         LZW.cpp
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(79): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(138): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(160): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(166): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(158) : definition of 'i' ignored
+                 d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(127) : definition of 'i' used
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(166): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(158) : definition of 'i' ignored
+                 d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(127) : definition of 'i' used
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(179): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(201): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(206): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(208): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(218): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(281): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(309): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(311): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(262): warning C4101: 'b' : unreferenced local variable
+     1>d:\feri\erasmus 2. semester\ara\lzw\lzw\lzw.cpp(63): warning C4715: 'dodaj' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\LZW.dll.embed.manifest.res" Debug\LZW_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FERI\ERASMUS 2. semester\ARA\LZW\Debug\LZW.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LZW.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\FERI\ERASMUS 2. semester\ARA\LZW\Debug\LZW.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\FERI\ERASMUS 2. semester\ARA\LZW\Debug\LZW.lib" /MACHINE:X86 /DLL Debug\LZW.dll.embed.manifest.res
+         Debug\LZW.obj
+            Creating library D:\FERI\ERASMUS 2. semester\ARA\LZW\Debug\LZW.lib and object D:\FERI\ERASMUS 2. semester\ARA\LZW\Debug\LZW.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LZW.dll.embed.manifest" /manifest Debug\LZW.dll.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         LZW.vcxproj -> D:\FERI\ERASMUS 2. semester\ARA\LZW\Debug\LZW.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\LZW.unsuccessfulbuild".
+         Touching "Debug\LZW.lastbuildstate".
+     1>Done Building Project "D:\FERI\ERASMUS 2. semester\ARA\LZW\LZW\LZW.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.25
